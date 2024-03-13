@@ -2,9 +2,11 @@
 
 ![Screenshot (38)](https://github.com/Sanju-Kumar-Giri/Flexsim-Model-of-Service-Business-of-Doner-Pizza/assets/77228006/924f69b6-ea0f-4077-a5d0-c9f5e53ce1a9)
 
-This repository represent "Service Business of Döner Pizza using Flexsim Simulation Software"
+* This repository represent "Service Business of Döner Pizza using Flexsim Simulation Software"
+* This project aims to analyze the service business of Döner Pizza using Flexsim Simulation Software. Our goal is to identify areas for improvement that can help the business grow.
 
-Information of Döner Pizza
+# 📝 Information of Döner Pizza
+
 Döner Pizza, a German-style pizza restaurant, was established in 2019, it is owned by Eric and Zoe, siblings who bring six years of experience from their time at Pizza Hut and Domino’s. 
 Located at Taiwan, 320, Taoyuan City, Zhongli District, Daren St, 51號1F.
 It offers a delightful array of German-style pizzas, döner kebabs, and other Turkish specialities, along with a selection of beverages. 
